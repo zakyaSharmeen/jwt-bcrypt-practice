@@ -1,0 +1,14 @@
+CREATE A USER-ACCOUNT
+-mongoose
+-schema
+-model
+usercreate-password-hash(bcrypt)
+jwt token-cookie
+
+
+
+
+
+///////////////////
+login
+login-token-decrypt-email
